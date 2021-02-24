@@ -1,0 +1,3 @@
+include ':DDProvider'
+include ':app'
+rootProject.name = "DeviceInformationProvider"
